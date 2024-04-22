@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou um estudante de sistemas de informação, e estou estudando banco de dados, e C# no momento
+    Sou um estudante de sistemas de informação, e estou estudando banco de dados, e JavaScript no momento (React, TypeScript)
    
   </p>
   
