@@ -6,7 +6,9 @@
   </h1>
   
   <p align="center">
-    Sou um estudante de sistemas de informação, e estou estudando banco de dados, e JavaScript no momento (React, TypeScript)
+    Sou estudante de Sistemas de Informação, atualmente focado no estudo de banco de dados e desenvolvimento com JavaScript, utilizando principalmente React e TypeScript. Tenho experiência prática com SQL Server, incluindo bancos de dados relacionais e criação de relatórios. Além disso, possuo conhecimento em TypeScript e C#, o que me permite trabalhar com aplicações web e backend de forma eficiente.
+
+
    
   </p>
   
